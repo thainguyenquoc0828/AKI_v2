@@ -1,5 +1,5 @@
 ### Predicting Acute Kidney Injury (AKI) in Patients with Acute Myocardial Infarction (AMI)
-![AKI Prediction Pipeline](images/AKI_pipeline.png)
+![AKI Prediction Pipeline](images/AKI_pipeline.jpg)
 ## 📌 Overview
 
 The main objective of this project is to develop a predictive model for estimating the risk of **Acute Kidney Injury (AKI)** within **7 days** among patients diagnosed with **Acute Myocardial Infarction (AMI)**.
