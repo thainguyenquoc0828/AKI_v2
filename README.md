@@ -172,21 +172,4 @@ Model interpretation is performed using:
 
 These methods are used to assess the contribution and direction of effect of each feature in the final prediction model.
 
----
-
-## 📊 Expected Output
-
-The final output of the project includes:
-
-* A clean AMI patient cohort with AKI outcome labels.
-* A feature matrix extracted from the first 12 hours of ICU admission.
-* Preprocessed datasets for internal and external validation.
-* Trained machine learning models for AKI prediction.
-* Performance metrics with 95% confidence intervals.
-* Model interpretation results using SHAP values and odds ratios.
-
----
-
-## 🎯 Project Goal
-
 This project aims to support early identification of AMI patients at high risk of developing AKI during ICU hospitalization. By using data available within the first 12 hours of ICU admission, the model may help clinicians perform early risk stratification and guide timely preventive interventions.
